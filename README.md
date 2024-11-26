@@ -41,9 +41,11 @@ RegisterNumber:24900112
 
 
 **RTL realization**
-![Screenshot 2024-11-26 111303](https://github.com/user-attach
-![RTL2 (3)](https://github.com/user-attachments/assets/e1784fa8-fa7b-4613-a41c-595a16356800)
-ments/assets/09c51449-0454-4d84-b35b-3e9bb18d2513)
+![Screenshot 2024-11-26 111303](https://github.com/user-attachments/assets/550f3e8e-0c40-4b5c-8026-7a88409db532)
+
+
+![RTL2 (3)](https://github.com/user-attachments/assets/38cb83b0-ec58-4b65-aef1-4f080f507470)
+
 
 **Output:**
 
